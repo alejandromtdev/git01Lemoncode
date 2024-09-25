@@ -75,9 +75,9 @@
 
  - Sube los cambios a Github.
   
-![alt text](<Captura de pantalla 2024-09-23 a las 12.09.53.png>)
+![alt text](<markdown fotos/cambios subidos a github.png>)
 
-5. __Hacer un merge__
+1. __Hacer un merge__
    
  - Vuelve a la rama "main".
   
@@ -85,9 +85,11 @@
 
  - Haz un merge de la rama "development" a la rama "main".
 
+![alt text](<markdown fotos/git merge development.png>)
 
  - Si no hay conflictos, los cambios realizados en la rama "development" se incorporarán a la rama "main".
 
 
 
 - Haz un push de los cambios al repositorio en GitHub.
+

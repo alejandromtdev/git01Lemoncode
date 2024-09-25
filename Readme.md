@@ -77,7 +77,7 @@
 
 ![alt text](<markdown fotos/17. Subimos cambios a github.png>)
 
-1. __Hacer un merge__
+5. __HACER UN MERGE__
    
  - Vuelve a la rama "main".
   
@@ -88,8 +88,6 @@
 ![alt text](<markdown fotos/19. Hacemos Merge de rama development a rama main.png>)
 
  - Si no hay conflictos, los cambios realizados en la rama "development" se incorporarán a la rama "main".
-
-
 
 - Haz un push de los cambios al repositorio en GitHub.
 
